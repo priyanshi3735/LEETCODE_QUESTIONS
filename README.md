@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
 | [0518-coin-change-ii](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0518-coin-change-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0518-coin-change-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
