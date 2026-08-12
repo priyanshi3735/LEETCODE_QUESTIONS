@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0062-unique-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
