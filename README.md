@@ -9,13 +9,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0062-unique-paths) |
 | [0518-coin-change-ii](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0518-coin-change-ii) |
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
