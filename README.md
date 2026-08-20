@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0283-move-zeroes) |
 | [0518-coin-change-ii](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0518-coin-change-ii) |
 ## Dynamic Programming
@@ -38,4 +39,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
