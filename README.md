@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0283-move-zeroes) |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
