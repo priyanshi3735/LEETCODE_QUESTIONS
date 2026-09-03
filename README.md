@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshi3735/LEETCODE_QUESTIONS/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
